@@ -16,7 +16,7 @@ Due to GitHub’s restrictions on certain tech stacks such as PHP backend script
 
 To experience the full functionality of Navikshaa, please visit the live demo of the project at:
 
-https://phpstack-1417858-5529447.cloudwaysapps.com/pages
+https://phpstack-1417858-5529447.cloudwaysapps.com
 
 ---
 
